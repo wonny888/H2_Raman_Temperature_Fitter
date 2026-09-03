@@ -1,0 +1,40 @@
+0	Thermodynamic Equilibrium	equilibrium	-
+101325	Pressure	pressure	Pa
+500	    Minimum Temperature	Tmin	K
+3000	Maximum Temperature	Tmax	K
+0.4647	H2 Concentration (1)	H2conc	-
+0.3494	N2 Concentration (2)	N2conc	-
+0	O2 Concentration (3)	O2conc	-
+0	CO Concentration (4)	Coconc	-
+0.1859	H2O Concentration (5)	H2Oconc	-
+0	CO2 Concentration (6)	CO2conc	-
+0	He Concentration	Heconc	-
+266	Narrowband Laser Wavelength	lambdaN	nm
+0.0283	Narrowband Laser Linewidth	linewidthN	nm
+266	Broadband Laser Wavelength	lambdaB	nm
+0.265	Broadband Laser Linewidth	linewidthB	nm
+0	Spectrograph Linewidth	lambdaspect	nm
+0.45	Spectrograph Dispersion	dispersion	nm/mm
+0.1	Spectrograph Slitwidth	slitwidth	mm
+296	Start of Plotting Grid	grid_start	nm
+300.2	End of Plotting Gird	grid_end	nm
+0.01	Grid Increment	increment	nm
+1	Narrowband Lineshape	N_lineshape	-
+0	(#3-4) Convoluted G-L % value (0-1)	NGLvalue	-
+0	Voight Narrow Gauss Linewidth	VNG	-
+0	Voight Narrow Lorentz Linewidth	VNL	-
+1	Broadband Lineshape	B_lineshape	-
+0	(#3-4) Convoluted G-L % value (0-1)	BGLvalue	-
+0	Voight Broad Gauss Linewidth	VBG	-
+0	Voight Broad Lorentz Linewidth	VBL	-
+1	Apply the Spectral Filter	filter	-
+0	Save the Theoretical Raman Spectra	printS	-
+0	Use the Analysis Software	analysis	-
+2	Analysis Method	method	-
+0	Lineshape Mixing Value	mix	-
+40	Wavelength Uncertainty	variance	-
+294	Measured Temperature	meas_T	-
+1	Number of Spectra	shots	-
+0	Save the Best-Fit Spectra	printM	-
+300	Temperature of Source Fluid	T_fluid	(K)
+
